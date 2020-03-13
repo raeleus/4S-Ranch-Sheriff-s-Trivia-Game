@@ -1,0 +1,73 @@
+{
+	"title":"Drugs & Alcohol",
+	"category":"parents",
+	"questions":[
+		{
+			"question":"An estimated (__________) million U.S. residents aged 12 and older abused prescription drugs at least once in their lifetime.  Is it 16, 26, or 36 million?",
+			"correct":"36",
+			"incorrect":"26",
+			"incorrect":"18",
+			"incorrect":"NONE OF THE ABOVE",
+			"result":"36 ",
+			"randomize": "false"
+		},
+		{
+			"question":"25% of high school seniors in the United States abused narcotics (other than heroin) at least once in their lifetime.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - 10%"
+		},
+		{
+			"question":"Glue, correction fluid, markers, and nail polish remover are used as inhalants.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - In fact, more than 1,000 common products can be classified as inhalants."
+		},
+		{
+			"question":"38% of parents admitted they are not aware of the risks involving inhalant abuse.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE"
+		},
+		{
+			"question":"Alcohol a stimulant.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - Depressant"
+		},
+		{
+			"question":"Marijuana is not harmful because it is \"all natural\" and comes from a plant.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - Marijuana smoke contains some of the same cancer-causing compounds as tobacco, sometimes in higher concentrations."
+		},
+		{
+			"question":"10% of 8th graders have admitted to being intoxicated at least once.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - 25%"
+		},
+		{
+			"question":"\"Special K\" can be (__________).",
+			"correct":"SNORTED AND SWALLOWED",
+			"incorrect":"SNORTED",
+			"incorrect":"SMOKED",
+			"incorrect":"SWALLOWED",
+			"result":"SNORTED AND SWALLOWED - \"Special K\" is used as an anesthetic for animals and is popular at raves."
+		},
+		{
+			"question":"Some methamphetamine users avoid sleep for 3 to (__________) days.",
+			"correct":"15",
+			"incorrect":"5",
+			"incorrect":"10",
+			"incorrect":"20",
+			"result":"15"
+		},
+		{
+			"question":"\"Ice\" is the street name for smokable methamphetamine.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE"
+		}
+	]
+}

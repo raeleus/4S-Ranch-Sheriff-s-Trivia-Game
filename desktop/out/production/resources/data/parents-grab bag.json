@@ -1,0 +1,78 @@
+{
+	"title":"Grab Bag",
+	"category":"parents",
+	"questions": [
+		{
+			"question":"Almost 80% of “911” calls are not emergencies. ",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE"
+		},
+		{
+			"question":"Where is the San Diego County Sheriff's Communication Center located? ",
+			"correct":"SAN DIEGO",
+			"incorrect":"POWAY",
+			"incorrect":"VISTA",
+			"incorrect":"SAN MARCOS",
+			"result":"SAN DIEGO - 5555 Overland Avenue"
+		},
+		{
+			"question":"What is the maximum age limit for a Deputy Sheriff Patrol?",
+			"incorrect":"62",
+			"incorrect":"65",
+			"incorrect":"67",
+			"correct":"NONE OF THE ABOVE",
+			"result":"NONE OF THE ABOVE - There is no maximum age limit.",
+			"randomize": "false"
+		},
+		{
+			"question":"The San Diego County Sheriff's Department has a museum.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - It is located in Old Town and opened on November 17, 2001."
+		},
+		{
+			"question":"Can you volunteer with the San Diego County Sheriff's Department?",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - Explorer Program, Law Enforcement Reserves, Search and Rescue, Senior Volunteers, Mounted Unit & Chaplain Program "
+		},
+		{
+			"question":"You can look on the Internet to see if someone is in jail or has a warrant for their arrest.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - You can go to www.sdsheriff.net."
+		},
+		{
+			"question":"The San Diego County Sheriff's Department has an Off-Road Enforcement Team? ",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - Comprised of law enforcement reserve deputies specializing in off-road enforcement, medical assistance, and public education throughout the County."
+		},
+		{
+			"question":"How many Sheriffs are in San Diego County?",
+			"incorrect":"600",
+			"incorrect":"700",
+			"incorrect":"800",
+			"correct":"NONE OF THE ABOVE",
+			"result":"NONE OF THE ABOVE - 1",
+			"randomize": "false"
+		},
+		{
+			"question":"The San Diego County Sheriff's Department was established in what year?",
+			"correct":"1850",
+			"incorrect":"1835",
+			"incorrect":"1800",
+			"incorrect":"1900",
+			"result":"1850"
+		},
+		{
+			"question":"Which is NOT a contract city with the Sheriff's Department?",
+			"correct":"CARLSBAD",
+			"incorrect":"IMPERIAL BEACH",
+			"incorrect":"SANTEE",
+			"incorrect":"VISTA",
+			"result":"CARLSBAD - Also Chula Vista, Coronado,  El Cajon, Escondido, La Mesa, National City, Oceanside, and San Diego"
+		}
+	]
+}

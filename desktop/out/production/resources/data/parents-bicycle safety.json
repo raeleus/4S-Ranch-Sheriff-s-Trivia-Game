@@ -1,0 +1,64 @@
+{
+	"title":"Bicycle Safety",
+	"category":"parents",
+	"questions":[
+		{
+			"question":"Demonstrate the proper hand signal for a left turn.",
+			"result-image":"left-arm-straight-out"
+		},
+		{
+			"question":"Bicycle riders and automobile drivers follow the same rules and have the same rights.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - Example: Cars must stop at a stop sign, and bicycles must stop at a stop sign."
+		},
+		{
+			"question":"A bicycle rider should ride facing traffic.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - 21202 VC"
+		},
+		{
+			"question":"Bicycles, unlike motor vehicles, don't need regular maintenance.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - Bicycles require regular maintenance to assure proper operation."
+		},
+		{
+			"question":"It's okay if a child lets a friend ride on the handlebars, as long as they stay within a residential area.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - 21204(b) VC"
+		},
+		{
+			"question":"A bicycle must stop at stop signs.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - 21200 VC"
+		},
+		{
+			"question":"Some cities and counties prohibit riding bicycles on sidewalks.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE"
+		},
+		{
+			"question":"A bicycle rider can wear headsets over both ears.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - 27400 VC"
+		},
+		{
+			"question":"It is against the law to ride a bicycle under the influence of alcohol and/or drugs.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - 21200.5 VC"
+		},
+		{
+			"question":"A child riding as a passenger on a bicycle does not need to wear a bicycle helmet if they are riding with an adult.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - A person under 18 years of age cannot ride as a passenger without a properly fitted and fastened bicycle helmet."
+		}
+	]
+}

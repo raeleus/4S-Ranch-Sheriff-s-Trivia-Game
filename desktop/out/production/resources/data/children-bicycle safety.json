@@ -1,0 +1,66 @@
+{
+	"title":"Bicycle Safety",
+	"category":"children",
+	"questions":[
+		{
+			"question":"Should a bicyclist stop at stop signs?",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - Bicyclists need to follow the same rules of the road as other vehicles."
+		},
+		{
+			"question":"While riding your bicycle you should always wear (__________).",
+			"correct":"HELMET",
+			"incorrect":"JACKET",
+			"incorrect":"SOCKS",
+			"incorrect":"KNEEPADS",
+			"result":"HELMET"
+		},
+		{
+			"question":"Demonstrate the proper hand signal for a left turn.",
+			"result":"LEFT ARM STRAIGHT OUT POINTING LEFT"
+		},
+		{
+			"question":"Is it safe to let a friend ride on the handlebars?",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - And it violates the vehicle code 21204(b) VC"
+		},
+		{
+			"question":"While riding at night, your bicycle must have a light and reflectors?",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"You should wear dark clothes while riding your bicycle at night.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Lighter colored clothes make it easier for you to be seen."
+		},
+		{
+			"question":"A bicycle rider can wear headsets over both ears.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - And it violates the vehicle code 27400 VC"
+		},
+		{
+			"question":"Is it okay to leave your bicycle unlocked in your front yard?",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - When not in use, always secure your bicycle with a strong chain and padlock. "
+		},
+		{
+			"question":"You should stay in a single file when riding with others.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - In the bicycle lane if there is one."
+		},
+		{
+			"question":"While riding your bicycle, you should stay alert at all times.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		}
+	]
+}

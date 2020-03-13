@@ -1,0 +1,75 @@
+{
+	"title":"Grab Bag",
+	"category":"children",
+	"questions":[
+		{
+			"question":"If your friend takes your favorite pencil, you should call 911.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Only call 911 in case of an emergency."
+		},
+		{
+			"question":"It's okay to accept a ride from a stranger if you are running late.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO"
+		},
+		{
+			"question":"Of the many ways young people get into trouble with the law, (__________) is among the most common. ",
+			"correct":"FIGHTING",
+			"incorrect":"SKIPPING SCHOOL",
+			"incorrect":"DRINKING ALCOHOL",
+			"incorrect":"NONE OF THE ABOVE",
+			"result":"FIGHTING",
+			"randomize": "false"
+		},
+		{
+			"question":"What color uniform does a San Diego County Sheriff's Department Deputy normally wear?",
+			"correct":"TAN SHIRTS WITH GREEN PANTS",
+			"incorrect":"DARK BLUE",
+			"incorrect":"WHITE SHIRT WITH  BLACK PANTS",
+			"incorrect":"GRAY",
+			"result":"TAN SHIRTS WITH GREEN PANTS"
+		},
+		{
+			"question":"In what city did the first California gangs form?",
+			"correct":"LOS ANGELES",
+			"incorrect":"SAN DIEGO",
+			"incorrect":"SACRAMENTO",
+			"incorrect":"SAN FRANCISCO",
+			"result":"LOS ANGELES"
+		},
+		{
+			"question":"If you see a house on fire, you should go inside to see if anyone is home.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Never go into a burning building.  You should immediately call 911 for help."
+		},
+		{
+			"question":"Being cruel to animals is a crime.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - PC 596, 597, 597.1"
+		},
+		{
+			"question":"Railroad trespassers may be arrested and fined.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - Being on railroad property without permission is trespassing."
+		},
+		{
+			"question":"What number do you call in case of an emergency?",
+			"correct":"911",
+			"incorrect":"211",
+			"incorrect":"411",
+			"incorrect":"991",
+			"result":"911"
+		},
+		{
+			"question":"Tampering with fire alarm apparatus and giving false alarms is a crime.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - PC 148.4"
+		}
+	]
+}

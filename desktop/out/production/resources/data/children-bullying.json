@@ -1,0 +1,73 @@
+{
+	"title":"Bullying",
+	"category":"children",
+	"questions":[
+		{
+			"question":"According to studies, as many as (__________) of children in the United States have experienced some sort of bullying.",
+			"correct":"75%",
+			"incorrect":"25%",
+			"incorrect":"50%",
+			"incorrect":"100%",
+			"result":"75%"
+		},
+		{
+			"question":"What is another name for online bullying?",
+			"correct":"CYBERBULLYING",
+			"incorrect":"HACKING",
+			"incorrect":"BOPPING",
+			"incorrect":"PIRACY",
+			"result":"CYBERBULLYING"
+		},
+		{
+			"question":"Which one is an example of indirect bullying?",
+			"incorrect":"HITTING",
+			"incorrect":"SHOVING",
+			"incorrect":"STEALING",
+			"result":"GOSSIPING"
+		},
+		{
+			"question":"Bullying is okay if no one sees you do it.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Nobody deserves to be bullied."
+		},
+		{
+			"question":"Do adults bully people too?",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"Posting nasty pictures or messages about others in blogs or on websites is a form of cyberbullying.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"You should help other kids who are bullied.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"If someone at school is calling you bad names, you should hit them.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Tell your teacher and/or parents."
+		},
+		{
+			"question":"Sometimes kids are picked on because they look different.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"Sometimes kids are bullied because they don't have many (__________). ",
+			"correct":"FRIENDS",
+			"incorrect":"PETS",
+			"incorrect":"TOYS",
+			"incorrect":"HOBBIES",
+			"result":"FRIENDS"
+		}
+	]
+}

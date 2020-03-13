@@ -1,0 +1,72 @@
+{
+	"title":"Internet & Digital Safety",
+	"category":"children",
+	"questions":[
+		{
+			"question":"You should NEVER post your personal information, such as cell phone number, address, or the name of your school.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"I should write down my passwords and post them where I can easily see them.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Passwords should be kept in a secure place and changed every couple of months."
+		},
+		{
+			"question":"Only add people as friends to your social media site if you know them in real life.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"Meeting somone in person that I \"met\" online is okay if my best friend comes with me.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - If someone wants to meet you in person, immediately tell your parents."
+		},
+		{
+			"question":"What does \"app\" mean?",
+			"correct":"A. APPLICATION",
+			"incorrect":"APPLIANCE",
+			"incorrect":"APPENDIX",
+			"incorrect":"APPLE",
+			"result":"A. APPLICATION"
+		},
+		{
+			"question":"Which one is NOT a social media site?",
+			"correct":"NORTON",
+			"incorrect":"INSTAGRAM",
+			"incorrect":"FACEBOOK",
+			"incorrect":"TWITTER",
+			"result":"NORTON"
+		},
+		{
+			"question":"Only download music, movies, and games if they are FREE.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Some files may contain viruses."
+		},
+		{
+			"question":"There is a lot of material on the Internet that is inappropriate for children.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"I always ask permission from a (__________) before I use the computer, tablet or smartphone.",
+			"correct":"PARENT",
+			"incorrect":"FRIEND",
+			"incorrect":"BROTHER/SISTER",
+			"incorrect":"NEIGHBOR",
+			"result":"PARENT"
+		},
+		{
+			"question":"It's ALWAYS safe to post pictures of yourself on your own social media site, like Facebook or Instagram.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - It may not be safe to put photographs or any type of personally identifying information on social media sites.  Check with your parents first. "
+		}
+	]
+}
