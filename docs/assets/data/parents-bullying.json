@@ -1,0 +1,78 @@
+{
+	"title":"Bullying",
+	"category":"parents",
+	"questions":[
+		{
+			"question":"In a US Secret Service study, 3/4ths of the school shooting attackers felt persecuted, bullied, and/or threatened.  Students in grades 7-12 say (__________) is the biggest motivation for school shootings.",
+			"correct":"REVENGE",
+			"incorrect":"DEPRESSION",
+			"incorrect":"ANGER",
+			"incorrect":"STRESS",
+			"result":"REVENGE"
+		},
+		{
+			"question":"Children who are bullies by age (__________) have a 1 in 4 chance of having a criminal record by age 30. ",
+			"correct":"8",
+			"incorrect":"10",
+			"incorrect":"12",
+			"incorrect":"14",
+			"result":"8"
+		},
+		{
+			"question":"According to studies, as many as (__________) of children in the United States have experienced some sort of bullying.",
+			"correct":"75%",
+			"incorrect":"20%",
+			"incorrect":"35%",
+			"incorrect":"50%",
+			"result":"75%"
+		},
+		{
+			"question":"When was the federal campaign called Stop Bullying Now initiated?",
+			"correct":"2004",
+			"incorrect":"2002",
+			"incorrect":"2006",
+			"incorrect":"2008",
+			"result":"2004"
+		},
+		{
+			"question":"Pushing someone is a form of indirect bullying.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE"
+		},
+		{
+			"question":"You should take complaints of bullying seriously.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - Do not dismiss your child or expect your child to work through the situation alone."
+		},
+		{
+			"question":"Two out of three kids in grades 5 - 12 said they had been teased in a mean way in the past month.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE"
+		},
+		{
+			"question":"Every day how many kids stay home from school because they're afraid of being bullied?",
+			"correct":"160,000",
+			"incorrect":"30,000",
+			"incorrect":"60,000",
+			"incorrect":"100,000",
+			"result":"160,000"
+		},
+		{
+			"question":"When friends help out, 57% of the time bullying stops in (__________).",
+			"correct":"10 SECONDS",
+			"incorrect":"30 SECONDS",
+			"incorrect":"1 MINUTE",
+			"incorrect":"5 MINUTE",
+			"result":"10 SECONDS"
+		},
+		{
+			"question":"Bullying can be a gateway behavior, teaching the perpetrator that threats and aggression are acceptable even in adulthood.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE"
+		}
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"title":"Internet & Digital Safety",
+	"category":"parents",
+	"questions":[
+		{
+			"question":"Approximately one in (__________) youths (10 to 17 years) experience a sexual solicitation or approach while online.",
+			"correct":"SEVEN",
+			"incorrect":"FOUR",
+			"incorrect":"NINE",
+			"incorrect":"TEN",
+			"result":"SEVEN"
+		},
+		{
+			"question":"Which of the following is NOT an antivirus software?",
+			"correct":"PROTEC+",
+			"incorrect":"NORTON",
+			"incorrect":"MCAFEE",
+			"incorrect":"WEBROOT",
+			"result":"PROTEC+"
+		},
+		{
+			"question":"Spam is a brand of canned cooked pork.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - In addition, spam is unsolicited junk email."
+		},
+		{
+			"question":"Parents should post clear, simple, easy-to-read house rules on or near the monitor and supervise your child's online activity.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - The rules can be signed by you and your child and should be periodically reviewed."
+		},
+		{
+			"question":"It's okay for your children to post pictures of themselves on their own personal web site, if they promise to only give the web site address to people they know.",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - Tell them it is not safe to put photographs or any type of personally identifying information on web sites. "
+		},
+		{
+			"question":"Katie_ny13 is a good screen name for a child?",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - A screenname should never reveal any identifying information about a child especially things such as a name, age, location, year of birth, school name, and year of graduation."
+		},
+		{
+			"question":"A survey of 10 to 17 year olds revealed 15% had posted their real names, telephone numbers, home addresses, or the names of their schools online where anyone could see",
+			"correct":"FALSE",
+			"incorrect":"TRUE",
+			"result":"FALSE - 34%"
+		},
+		{
+			"question":"According to the U.S. Department of Education, (__________) of nursery school children in the United States use the Internet.",
+			"correct":"23%",
+			"incorrect":"7%",
+			"incorrect":"12%",
+			"incorrect":"31%",
+			"result":"23%"
+		},
+		{
+			"question":"How often should you change your passwords?  At minimum, every (__________).",
+			"correct":"90 DAYS",
+			"incorrect":"WEEK",
+			"incorrect":"60 DAYS",
+			"incorrect":"6 MONTHS",
+			"result":"C. 90 DAYS "
+		},
+		{
+			"question":"You should back up important files.",
+			"correct":"TRUE",
+			"incorrect":"FALSE",
+			"result":"TRUE - No system is completely secure. If you have important files stored on your computer, copy them onto a removable disc, and store them in a secure place in a different building than your computer."
+		}
+	]
+}

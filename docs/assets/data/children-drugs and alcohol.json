@@ -1,0 +1,72 @@
+{
+	"title":"Drugs & Alcohol",
+	"category":"children",
+	"questions":[
+		{
+			"question":"Alcohol can hurt children.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - Your body is still growing and drugs and alcohol can really hurt it."
+		},
+		{
+			"question":"Alcohol can make people sick, cause car crashes, and get them into problems with the law.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"(__________) of 8th graders have admitted to being intoxicated at least once.",
+			"correct":"25%",
+			"incorrect":"5%",
+			"incorrect":"10%",
+			"incorrect":"20%",
+			"result":"25%"
+		},
+		{
+			"question":"Smoking cigarettes is NOT harmful.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Smoking can hurt the lungs and heart."
+		},
+		{
+			"question":"Cigarettes contain a drug called nicotine that makes it very hard for people to stop smoking.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"More than 1 of every (__________) high school students reported in 2019 that they used electronic cigarettes in the past 30 days.",
+			"correct":"4",
+			"incorrect":"6",
+			"incorrect":"10",
+			"incorrect":"12",
+			"result":"4"
+		},
+		{
+			"question":"(__________) individuals aged 12 to 17 abused prescription drugs at least once.",
+			"correct":"2.7 MILLION",
+			"incorrect":"2 MILLION",
+			"incorrect":"3 MILLION",
+			"incorrect":"1.7 MILLION",
+			"result":"2.7 MILLION"
+		},
+		{
+			"question":"Is abusing prescription drugs illegal?",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - It is illegal to use prescriptin drugs without a valid prescription or to distribute them."
+		},
+		{
+			"question":"Taking illegal drugs only affects the person taking them.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - It can also have an affect on the person's family, friends, co-workers, and others."
+		},
+		{
+			"question":"Once a person is addicted to drugs, it's very easy for them to stop.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - Stopping can cause withdrawal symptoms, such as vomiting (throwing up), sweating, and tremors (shaking)."
+		}
+	]
+}

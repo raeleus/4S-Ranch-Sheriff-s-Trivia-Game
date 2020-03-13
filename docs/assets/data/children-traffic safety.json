@@ -1,0 +1,70 @@
+{
+	"title":"Traffic Safety",
+	"category":"children",
+	"questions":[
+		{
+			"question":"When riding in a car, I should always wear my seatbelt, booster seat, or car seat..",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"It's okay to ride in the open bed of a pick-up truck.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - It's against the law.  See vehicle codes 21712 (a) driver and 21712 (b) passenger."
+		},
+		{
+			"question":"You should look both ways before crossing the street.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"NEVER walk behind a school bus.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES - The driver may not be able to see you."
+		},
+		{
+			"question":"Does wearing seatbelts save lives.",
+			"correct":"YES",
+			"incorrect":"NO",
+			"result":"YES"
+		},
+		{
+			"question":"The safest place to cross a street is in the middle.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - The corner's where you cross the street.  If present, use the crosswalk."
+		},
+		{
+			"question":"Young children should hold an adult's hand when crossing the (__________).",
+			"correct":"BOTH PARKING LOT & STREET",
+			"incorrect":"PARKING LOT",
+			"incorrect":"LIVING ROOM",
+			"incorrect":"STREET",
+			"result":"BOTH PARKING LOT & STREET"
+		},
+		{
+			"question":"The red light on a traffic signal means (__________).",
+			"correct":"STOP",
+			"incorrect":"GO",
+			"incorrect":"SLOW",
+			"incorrect":"CAUTION",
+			"result":"STOP"
+		},
+		{
+			"question":"It's okay to play on the railroad tracks.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - It can be dangerous and being on railroad property without permission is trespassing."
+		},
+		{
+			"question":"The biggest factor in vehicle-train collisions is train speed.",
+			"correct":"NO",
+			"incorrect":"YES",
+			"result":"NO - The biggest factor in collisions with thrains is driver error.  At a highway-rail intersection, roadway wehicles mucst always yield to trains."
+		}
+	]
+}

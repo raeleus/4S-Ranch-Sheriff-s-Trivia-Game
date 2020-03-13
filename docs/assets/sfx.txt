@@ -1,0 +1,5 @@
+sfx/click.mp3
+sfx/correct.mp3
+sfx/incorrect.mp3
+sfx/intro.mp3
+sfx/prize-wheel.mp3

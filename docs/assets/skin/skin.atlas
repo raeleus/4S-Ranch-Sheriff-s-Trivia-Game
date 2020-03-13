@@ -1,0 +1,167 @@
+
+skin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 1176, 1161
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1083, 1146
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+button-close
+  rotate: false
+  xy: 1443, 1465
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+button-close-over
+  rotate: false
+  xy: 1496, 1515
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+button-close-pressed
+  rotate: false
+  xy: 1136, 1155
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 1443, 1506
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1, 478
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+button-settings
+  rotate: false
+  xy: 54, 490
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+button-settings-over
+  rotate: false
+  xy: 1083, 1067
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+button-settings-pressed
+  rotate: false
+  xy: 1, 440
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+correct
+  rotate: false
+  xy: 1, 528
+  size: 326, 50
+  orig: 326, 50
+  offset: 0, 0
+  index: -1
+incorrect
+  rotate: false
+  xy: 1, 580
+  size: 388, 46
+  orig: 388, 46
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 628
+  size: 1080, 926
+  orig: 1080, 926
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 329, 539
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+panel-dark
+  rotate: false
+  xy: 1083, 1105
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 391, 608
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 1536, 1516
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+slider-knob-over
+  rotate: false
+  xy: 1, 400
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+slider-knob-pressed
+  rotate: false
+  xy: 1083, 1027
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+spinner
+  rotate: false
+  xy: 1083, 1196
+  size: 358, 358
+  orig: 358, 358
+  offset: 0, 0
+  index: -1
+spinner-clicker
+  rotate: false
+  xy: 1443, 1417
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+underline
+  rotate: false
+  xy: 391, 595
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 445, 625
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

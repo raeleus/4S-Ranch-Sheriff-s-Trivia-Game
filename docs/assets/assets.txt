@@ -1,0 +1,78 @@
+d:assets:0:application/unknown:1
+d:bgm:0:application/unknown:1
+a:bgm/audio-test.mp3:14710:audio/mpeg:1
+a:bgm/music-test.mp3:7775122:audio/mpeg:1
+t:bgm.txt:37:text/plain:1
+d:data:0:application/unknown:1
+t:data/children-bicycle safety.json:1952:application/unknown:1
+t:data/children-bullying.json:1898:application/unknown:1
+t:data/children-drugs and alcohol.json:2249:application/unknown:1
+t:data/children-grab bag.json:2224:application/unknown:1
+t:data/children-internet and digital safety.json:2306:application/unknown:1
+t:data/children-traffic safety.json:2125:application/unknown:1
+t:data/parents-bicycle safety.json:2043:application/unknown:1
+t:data/parents-bullying.json:2408:application/unknown:1
+t:data/parents-drugs and alcohol.json:2305:application/unknown:1
+t:data/parents-grab bag.json:2567:application/unknown:1
+t:data/parents-internet and digital safety.json:2837:application/unknown:1
+t:data/parents-traffic safety.json:2054:application/unknown:1
+t:data.txt:409:text/plain:1
+d:sfx:0:application/unknown:1
+a:sfx/click.mp3:7772:audio/mpeg:1
+a:sfx/correct.mp3:4658:audio/mpeg:1
+a:sfx/incorrect.mp3:9842:audio/mpeg:1
+a:sfx/intro.mp3:60155:audio/mpeg:1
+a:sfx/prize-wheel.mp3:55340:audio/mpeg:1
+t:sfx.txt:81:text/plain:1
+d:shaders:0:application/unknown:1
+d:skin:0:application/unknown:1
+b:skin/OpenSans-Bold.ttf:104120:application/unknown:1
+b:skin/RobotoSlab-Bold.ttf:165184:application/unknown:1
+t:skin/skin.atlas:2417:application/unknown:1
+t:skin/skin.json:6518:application/unknown:1
+i:skin/skin.png:864911:image/png:1
+t:skin.txt:14:text/plain:1
+d:spine:0:application/unknown:1
+t:spine/skeleton.atlas:276:application/unknown:1
+t:spine/skeleton.json:1498:application/unknown:1
+i:spine/skeleton.png:14032:image/png:1
+t:spine-atlas.txt:20:text/plain:1
+t:spine.txt:19:text/plain:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:820:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5874:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:9096:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:869:application/unknown:1
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:2931:application/unknown:1
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown:1
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png:1
+b:shaders/bias.frag:1115:application/unknown:1
+b:shaders/blur.vert:1058:application/unknown:1
+b:shaders/chromatic-aberration.frag:2185:application/unknown:1
+b:shaders/combine.frag:2234:application/unknown:1
+b:shaders/convolve-1d.frag:1362:application/unknown:1
+b:shaders/copy.frag:1032:application/unknown:1
+b:shaders/crt.frag:3284:application/unknown:1
+b:shaders/default.vert:1192:application/unknown:1
+b:shaders/film-grain.frag:1315:application/unknown:1
+b:shaders/fisheye.frag:1564:application/unknown:1
+b:shaders/fxaa.frag:4167:application/unknown:1
+b:shaders/hdr.frag:1378:application/unknown:1
+b:shaders/lensflare.frag:2812:application/unknown:1
+b:shaders/levels.frag:2216:application/unknown:1
+b:shaders/mix.frag:1133:application/unknown:1
+b:shaders/motionblur-max.frag:1249:application/unknown:1
+b:shaders/motionblur-mix.frag:1248:application/unknown:1
+b:shaders/nfaa.frag:3660:application/unknown:1
+b:shaders/noise.frag:1399:application/unknown:1
+b:shaders/earthquake.frag:2145:application/unknown:1
+b:shaders/underwater.frag:1432:application/unknown:1
+b:shaders/old-tv.frag:1910:application/unknown:1
+b:shaders/radial-blur.frag:1434:application/unknown:1
+b:shaders/radial-blur.vert:1145:application/unknown:1
+b:shaders/radial-distortion.frag:1510:application/unknown:1
+b:shaders/screenspace.vert:1030:application/unknown:1
+b:shaders/threshold.frag:1525:application/unknown:1
+b:shaders/vignetting.frag:3238:application/unknown:1
+b:shaders/zoom.frag:1115:application/unknown:1
+b:shaders/zoom.vert:1179:application/unknown:1
