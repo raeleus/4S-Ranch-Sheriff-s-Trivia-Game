@@ -5,11 +5,13 @@ import com.badlogic.gdx.utils.JsonValue;
 
 public class Trivia {
     public String title;
+    public int index;
     public String category;
     public Array<Question> questions;
     
     public Trivia(JsonValue root) {
         title = root.getString("title");
+        index = root.getInt("index");
         category = root.getString("category");
         
         questions = new Array<>();

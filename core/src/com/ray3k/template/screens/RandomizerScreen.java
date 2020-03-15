@@ -95,7 +95,7 @@ public class RandomizerScreen extends JamScreen {
         label.setColor(1, 1, 1, 0);
         table.add(label);
         
-        spinnerImage.addAction(Actions.sequence(Actions.delay(.5f), Actions.run(() -> wheelSound.play(core.sfx)), Actions.rotateBy(500, 3f, Interpolation.swingOut), Actions.run(() -> {
+        spinnerImage.addAction(Actions.sequence(Actions.delay(.5f), Actions.run(() -> wheelSound.play(core.sfx)), Actions.rotateBy(360f + 60 * (6 - core.selectedTrivia.index), 3f, Interpolation.swingOut), Actions.run(() -> {
             label.addAction(Actions.fadeIn(1f));
         }), Actions.delay(1.5f), Actions.run(() -> {
             Gdx.input.setInputProcessor(null);
