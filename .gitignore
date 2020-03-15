@@ -130,5 +130,3 @@ Thumbs.db
 !/ios-moe/xcode/*.xcodeproj/xcshareddata
 !/ios-moe/xcode/*.xcodeproj/project.pbxproj
 /ios-moe/xcode/native/
-core/out/production/classes/META-INF/Ray3K_Jam_Template_2.core.main.kotlin_module
-*.kotlin_module
