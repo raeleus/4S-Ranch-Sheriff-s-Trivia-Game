@@ -1,4 +1,3 @@
-
 /design/
 
 ## Java
@@ -33,6 +32,7 @@ www-test/
 *.iml
 /android/out/
 com_crashlytics_export_strings.xml
+desktop/out/
 
 ## Eclipse
 
