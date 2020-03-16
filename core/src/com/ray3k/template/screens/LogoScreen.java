@@ -34,7 +34,7 @@ public class LogoScreen extends JamScreen {
         core = Core.core;
         skin = core.skin;
         
-        core.assetManager.get("sfx/intro.mp3", Sound.class).play(core.sfx);
+//        core.assetManager.get("sfx/intro.mp3", Sound.class).play(core.sfx);
         
         stage = new Stage(new ScreenViewport(), core.batch);
         Gdx.input.setInputProcessor(stage);
